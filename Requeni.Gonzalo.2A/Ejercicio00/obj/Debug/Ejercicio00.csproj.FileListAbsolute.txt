@@ -1,0 +1,7 @@
+D:\VisualStudio\Requeni.Gonzalo.2A\Ejercicio00\bin\Debug\Ejercicio00.exe.config
+D:\VisualStudio\Requeni.Gonzalo.2A\Ejercicio00\bin\Debug\Ejercicio00.exe
+D:\VisualStudio\Requeni.Gonzalo.2A\Ejercicio00\bin\Debug\Ejercicio00.pdb
+D:\VisualStudio\Requeni.Gonzalo.2A\Ejercicio00\obj\Debug\Ejercicio00.csprojAssemblyReference.cache
+D:\VisualStudio\Requeni.Gonzalo.2A\Ejercicio00\obj\Debug\Ejercicio00.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Requeni.Gonzalo.2A\Ejercicio00\obj\Debug\Ejercicio00.exe
+D:\VisualStudio\Requeni.Gonzalo.2A\Ejercicio00\obj\Debug\Ejercicio00.pdb
